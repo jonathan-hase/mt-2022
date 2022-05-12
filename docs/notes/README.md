@@ -1,7 +1,6 @@
 ---
-share: true
+share: True
 ---
-
 Testpage
 
 some other text
